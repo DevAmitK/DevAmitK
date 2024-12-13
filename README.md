@@ -7,7 +7,23 @@
 
 - 📫 How to reach me **amitkundu.developer@gmail.com**
 
+---
 
+<h2 align="center">🎯 About Me</h2>
+
+Hi, I'm a **3rd-year Computer Science student** with a growing passion for Android development. My focus is on creating impactful and user-friendly applications using Jetpack Compose, Kotlin, and other modern tools.
+
+💻 **Skills**:  
+- **Android Development:** Jetpack Compose, MVVM Architecture  
+- **Programming:** Kotlin, Java, C  
+- **Firebase Integration:** Realtime Database, Authentication, Firestore  
+- **AdMob Implementation**  
+- **Version Control:** Git, GitHub  
+- **Frameworks & Libraries:** Retrofit, Room, Koin, Dagger  
+
+I am a **self-motivated learner** who enjoys turning ideas into functional apps. Whether it's solving real-world problems or experimenting with new technologies, I’m always up for a challenge!
+
+---
 
 <h2>🚀 Languages and Tools I Use</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
@@ -31,21 +47,11 @@
   </a>
 </div>
 
-
+---
 
 <h2>⚡️ Where to find me</h2>
 <p>
-  <a 
-    target="_blank" 
-    href="http://www.linkedin.com/in/devamitk" 
-    style="display: inline-block;">
-    <img 
-      src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" 
-      alt="linkedin" />
+  <a target="_blank" href="http://www.linkedin.com/in/devamitk" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-
 </p>
-
-
-
-
