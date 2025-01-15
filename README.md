@@ -15,7 +15,7 @@ Hi, I'm a **3rd-year Computer Science student** with a growing passion for Andro
 
 💻 **Skills**:  
 - **Android Development:** Jetpack Compose, MVVM Architecture  
-- **Programming:** Kotlin, Java, C  
+- **Programming:** Kotlin, Java,
 - **Firebase Integration:** Realtime Database, Authentication, Firestore  
 - **AdMob Implementation**  
 - **Version Control:** Git, GitHub  
