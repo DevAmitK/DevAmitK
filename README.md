@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kundu</h1>
 <h3 align="center">An Android Developer from India</h3>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/Amit336400/Chat-App)
-
 - 🌱 I’m currently learning **Android development in Jetpack Compose**
 
 - 📫 How to reach me **amitkundu.developer@gmail.com**
@@ -11,7 +9,7 @@
 
 <h2 align="center">🎯 About Me</h2>
 
-Hi, I'm a **3rd-year Computer Science student** with a growing passion for Android development. My focus is on creating impactful and user-friendly applications using Jetpack Compose, Kotlin, and other modern tools.
+Hi, I'm a **4rd-year Computer Science student** with a growing passion for Android development. My focus is on creating impactful and user-friendly applications using Jetpack Compose, Kotlin, and other modern tools.
 
 💻 **Skills**:  
 - **Android Development:** Jetpack Compose, MVVM Architecture  
@@ -19,7 +17,7 @@ Hi, I'm a **3rd-year Computer Science student** with a growing passion for Andro
 - **Firebase Integration:** Realtime Database, Authentication, Firestore  
 - **AdMob Implementation**  
 - **Version Control:** Git, GitHub  
-- **Frameworks & Libraries:** Retrofit, Room, Koin, Dagger  
+- **Frameworks & Libraries:** Retrofit, Room, Dagger  
 
 I am a **self-motivated learner** who enjoys turning ideas into functional apps. Whether it's solving real-world problems or experimenting with new technologies, I’m always up for a challenge!
 
