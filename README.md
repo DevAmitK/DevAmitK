@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Android development in Jetpack Compose**
 
-- 📫 How to reach me **amitkundu.developer@gmail.com**
 
 ---
 
